@@ -1,0 +1,19 @@
+html {
+    background-color:darksalmon;
+    background-image:url(bg.jpg);
+    font-family: sans-serif;
+    color: white;
+    @font-face{
+        font-family: roadway;
+        src: url(roadway/ROADWAY_.ttf);
+    
+
+    
+}
+}
+
+body {
+    font-size: 13pt;
+    margin: 1.5in 1in 1in;
+        
+}
