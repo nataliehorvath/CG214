@@ -1,0 +1,48 @@
+/*
+    NATALIE HORVATH
+    CG-214
+    OCTOBER 31st 2016
+*/
+
+html {
+    background:#8b444d;
+    font-family: url(../Font/Avenir.ttc) sans-serif;
+}
+
+body {
+    color: ;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+#title{
+    text-align: center;
+}
+
+#one{
+    width: 560px;
+    margin-left: 20px;
+    float:left;
+}
+
+#two{
+    padding: 50px;
+    padding-left: 630px;
+}
+
+#three{
+    padding-top: 50px;
+    Clear:left;
+    width= 400px;
+    margin-left: 20px;
+    float: left;
+}
+
+#four{
+    padding-top: 50px;
+    padding-left: 470px;
+}
+
+#five{
+    margin-left: 20px;
+}

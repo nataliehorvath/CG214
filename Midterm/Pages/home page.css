@@ -1,0 +1,85 @@
+/*
+    NATALIE HORVATH
+    CG-214
+    OCTOBER 31st 2016
+*/
+html{
+    background-color: #01aad3;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-image:url(../Images/YAS.jpg);
+}
+
+#myLink{
+    width: 50px;
+    height: 1000px;
+    position: absolute;
+    bottom: 0px;
+    left: 340px;
+}
+
+#theLink{
+   display:block;
+    height: 100%;
+    width: 100%;
+}
+
+/* ONE DAY I'LL GET TO THIS SONG TOO!
+#myLink2{
+    width: 50px;
+    height: 1000px;
+    position: absolute;
+    bottom: 0px;
+    left: 470px;
+}
+
+
+#theLink2{
+   display:block;
+    height: 100%;
+    width: 100%;
+}
+*/
+
+#myLink3{
+    width: 50px;
+    height: 1000px;
+    position: absolute;
+    bottom: 0px;
+    left: 520px;
+}
+
+#theLink3{
+   display:block;
+    height: 100%;
+    width: 100%;
+}
+
+/* ONE DAY I'LL GET TO THIS SONG TOO!
+#myLink4{
+    width: 50px;
+    height: 1000px;
+    position: absolute;
+    bottom: 0px;
+    left: 660px;
+}
+
+#theLink4{
+   display:block;
+    height: 100%;
+    width: 100%;
+}*/
+    
+#myLink5{
+    width: 50px;
+    height: 1000px;
+    position: absolute;
+    bottom: 0px;
+    left: 850px;
+}
+
+#theLink5{
+   display:block;
+    height: 100%;
+    width: 100%;
+}
